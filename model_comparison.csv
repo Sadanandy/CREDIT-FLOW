@@ -1,0 +1,4 @@
+Model,ROC_AUC,Recall_Default
+Logistic Regression,0.7087,0.65
+Random Forest,0.6892,0.01
+XGBoost,0.704,0.56

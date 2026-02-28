@@ -1,0 +1,47 @@
+Feature,Importance
+int_rate,0.08332717
+term,0.06742147
+purpose_small_business,0.052844495
+high_risk_purpose,0.042330705
+inq_last_6mths,0.04223932
+annual_inc,0.033443384
+purpose_credit_card,0.026649032
+purpose_moving,0.02651076
+pub_rec,0.024577841
+loan_to_income,0.024557626
+verification_status_Verified,0.024212806
+mths_since_last_delinq,0.024016142
+utilization_per_account,0.024014289
+revol_util,0.023814542
+purpose_major_purchase,0.022518886
+dti_int_rate_interaction,0.0223148
+avg_credit_per_account,0.021909622
+revol_bal,0.021663785
+home_ownership_RENT,0.021634704
+delinq_bucket_Old (2–5y),0.02159932
+delinq_bucket_Recent (6–24m),0.021393785
+dti,0.020345777
+emp_length,0.019747844
+home_ownership_OWN,0.019705158
+delinq_bucket_Very Old (>5y),0.019488385
+total_acc,0.019295597
+purpose_wedding,0.019010518
+purpose_debt_consolidation,0.01839615
+purpose_medical,0.017905807
+open_acc,0.017802795
+purpose_other,0.017677862
+loan_amnt,0.017479014
+verification_status_Source Verified,0.017365353
+purpose_house,0.017202219
+purpose_home_improvement,0.016314924
+delinq_2yrs,0.016064083
+purpose_educational,0.015986977
+purpose_vacation,0.01576454
+purpose_renewable_energy,0.012227321
+home_ownership_OTHER,0.00922525
+home_ownership_NONE,0.0
+low_employment,0.0
+chronic_delinquent,0.0
+recent_delinquency,0.0
+credit_utilization_ratio,0.0
+delinq_bucket_Never Delinquent,0.0
