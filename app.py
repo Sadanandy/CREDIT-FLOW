@@ -200,7 +200,7 @@ with st.sidebar:
         "Risk Concentration"
     ])
     st.markdown("---")
-    st.markdown("<div style='background: rgba(0,208,156,0.1); padding: 12px; border-radius:10px; border: 1px solid #00D09C;'><span style='color:#00D09C;'>●</span> <b style='color:#F8FAFC;'>System Live</b><br><small style='color:#8B949E;'>v2.9.1 stable</small></div>", unsafe_allow_html=True)
+    #st.markdown("<div style='background: rgba(0,208,156,0.1); padding: 12px; border-radius:10px; border: 1px solid #00D09C;'><span style='color:#00D09C;'>●</span> <b style='color:#F8FAFC;'>System Live</b><br><small style='color:#8B949E;'>v2.9.1 stable</small></div>", unsafe_allow_html=True)
 
 # ==========================================
 # PAGE 1: EXECUTIVE OVERVIEW
@@ -274,7 +274,7 @@ if page == "Executive Overview":
 elif page == "Model Performance":
     st.title("ML Engine Integrity")
     
-    st.markdown("<div class='chart-box' style='border-left: 5px solid #00D09C; background: rgba(0,208,156,0.05);'><b>Diagnostic:</b> Model version 2.9 is exhibiting stable convergence with a Gini coefficient of 0.82.</div>", unsafe_allow_html=True)
+    #st.markdown("<div class='chart-box' style='border-left: 5px solid #00D09C; background: rgba(0,208,156,0.05);'><b>Diagnostic:</b> Model version 2.9 is exhibiting stable convergence with a Gini coefficient of 0.82.</div>", unsafe_allow_html=True)
     
     c_a, c_b = st.columns([1, 2])
     with c_a:
